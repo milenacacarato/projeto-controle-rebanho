@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Controle de Rebanho",
+    "slug": "controle-rebanho",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "controlerebanho",
+    "userInterfaceStyle": "automatic",
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
