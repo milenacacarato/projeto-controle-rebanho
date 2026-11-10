@@ -127,16 +127,7 @@ As datas em formato ISO (`AAAA-MM-DD`) podem ser ordenadas como texto em ordem c
 - Detalhes do animal e histórico de manejos
 - Cadastro de manejo
 
-## 7. Roteiro de entrega alinhado ao arquivo da atividade
-
-1. **Configuração do ambiente (5 pontos):** instalar dependências, executar Expo, configurar Firebase, autenticação e regras do Firestore. Registrar capturas de tela.
-2. **Autenticação (10 pontos):** demonstrar login, mensagens de erro e logout.
-3. **Cadastro de animais (10 pontos):** demonstrar validação, gravação no Firestore e limpeza/retorno após salvar.
-4. **Listagem (10 pontos):** demonstrar lista, atualização ao retornar à tela e estado vazio.
-5. **Edição e exclusão (15 pontos):** editar um registro e excluir com confirmação.
-6. **Identidade visual (5 pontos):** conferir paleta, navegação e remoção de conteúdo de exemplo.
-7. **Funcionalidade adicional (20 pontos):** demonstrar manejos, atualização de peso, alerta de vacinação e filtros de status.
-8. **README e Git (10 pontos):** manter documentação, comentários úteis e commits organizados; adicionar o link do repositório à entrega.
+7. **README e Git (10 pontos):** manter documentação, comentários úteis e commits organizados; adicionar o link do repositório à entrega.
 
 O arquivo de instruções fornecido descreve essas oito atividades. Confira com o professor se existe algum complemento de apresentação ou critério não incluído no arquivo recebido.
 
